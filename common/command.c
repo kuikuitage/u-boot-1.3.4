@@ -27,7 +27,7 @@
 
 #include <common.h>
 #include <command.h>
-
+#define U_BOOT_xyd_PATCH_VER "123456"
 int
 do_version (cmd_tbl_t *cmdtp, int flag, int argc, char *argv[])
 {
