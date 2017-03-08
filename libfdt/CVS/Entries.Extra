@@ -1,0 +1,9 @@
+/Makefile////*///
+/README////*///
+/fdt.c////*///
+/fdt_ro.c////*///
+/fdt_rw.c////*///
+/fdt_strerror.c////*///
+/fdt_sw.c////*///
+/fdt_wip.c////*///
+/libfdt_internal.h////*///
