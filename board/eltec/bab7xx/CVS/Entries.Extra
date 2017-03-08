@@ -1,0 +1,12 @@
+/Makefile////*///
+/asm_init.S////*///
+/bab7xx.c////*///
+/config.mk////*///
+/dc_srom.c////*///
+/el_srom.c////*///
+/flash.c////*///
+/l2cache.c////*///
+/misc.c////*///
+/pci.c////*///
+/srom.h////*///
+/u-boot.lds////*///

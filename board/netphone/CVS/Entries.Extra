@@ -1,0 +1,7 @@
+/Makefile////*///
+/config.mk////*///
+/flash.c////*///
+/netphone.c////*///
+/phone_console.c////*///
+/u-boot.lds////*///
+/u-boot.lds.debug////*///

@@ -1,0 +1,7 @@
+/Makefile////*///
+/config.mk////*///
+/flash.c////*///
+/fpgadata.c////*///
+/sixnet.c////*///
+/sixnet.h////*///
+/u-boot.lds////*///

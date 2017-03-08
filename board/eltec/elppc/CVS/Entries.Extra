@@ -1,0 +1,11 @@
+/Makefile////*///
+/asm_init.S////*///
+/config.mk////*///
+/eepro100_srom.c////*///
+/elppc.c////*///
+/flash.c////*///
+/misc.c////*///
+/mpc107_i2c.c////*///
+/pci.c////*///
+/srom.h////*///
+/u-boot.lds////*///

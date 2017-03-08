@@ -1,0 +1,7 @@
+/Makefile////*///
+/config.mk////*///
+/flash.c////*///
+/intel.h////*///
+/lowlevel_init.S////*///
+/mx1fs2.c////*///
+/u-boot.lds////*///

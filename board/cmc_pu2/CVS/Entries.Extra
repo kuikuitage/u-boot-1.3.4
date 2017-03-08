@@ -1,0 +1,6 @@
+/Makefile////*///
+/cmc_pu2.c////*///
+/config.mk////*///
+/flash.c////*///
+/load_sernum_ethaddr.c////*///
+/u-boot.lds////*///

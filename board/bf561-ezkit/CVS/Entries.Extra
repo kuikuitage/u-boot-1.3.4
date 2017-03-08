@@ -1,0 +1,5 @@
+/.gitignore////*///
+/Makefile////*///
+/bf561-ezkit.c////*///
+/config.mk////*///
+/u-boot.lds.S////*///

@@ -1,0 +1,12 @@
+/Makefile////*///
+/bat_rw.c////*///
+/board.c////*///
+/bootm.c////*///
+/cache.c////*///
+/extable.c////*///
+/interrupts.c////*///
+/kgdb.c////*///
+/ppccache.S////*///
+/ppcstring.S////*///
+/ticks.S////*///
+/time.c////*///

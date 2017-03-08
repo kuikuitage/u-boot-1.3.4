@@ -1,0 +1,5 @@
+/Makefile////*///
+/config.mk////*///
+/imx31_litekit.c////*///
+/lowlevel_init.S////*///
+/u-boot.lds////*///

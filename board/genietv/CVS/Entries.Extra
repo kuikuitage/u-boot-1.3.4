@@ -1,0 +1,7 @@
+/Makefile////*///
+/config.mk////*///
+/flash.c////*///
+/genietv.c////*///
+/genietv.h////*///
+/u-boot.lds////*///
+/u-boot.lds.debug////*///

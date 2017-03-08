@@ -1,0 +1,8 @@
+/Makefile////*///
+/config.mk////*///
+/init.S////*///
+/lcd.c////*///
+/showinfo.c////*///
+/taishan.c////*///
+/u-boot.lds////*///
+/update.c////*///

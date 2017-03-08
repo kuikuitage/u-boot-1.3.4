@@ -1,0 +1,7 @@
+/Makefile////*///
+/config.mk////*///
+/init.S////*///
+/sc3.c////*///
+/sc3.h////*///
+/sc3nand.c////*///
+/u-boot.lds////*///

@@ -1,0 +1,5 @@
+/Makefile////*///
+/atmel_spi.c////*///
+/atmel_spi.h////*///
+/mpc8xxx_spi.c////*///
+/mxc_spi.c////*///

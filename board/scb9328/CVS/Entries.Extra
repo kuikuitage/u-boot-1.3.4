@@ -1,0 +1,7 @@
+/Makefile////*///
+/config.mk////*///
+/flash.c////*///
+/intel.h////*///
+/lowlevel_init.S////*///
+/scb9328.c////*///
+/u-boot.lds////*///

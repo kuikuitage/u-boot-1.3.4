@@ -1,0 +1,8 @@
+/Makefile////*///
+/config.mk////*///
+/flash.c////*///
+/lowlevel_init.S////*///
+/purple.c////*///
+/sconsole.c////*///
+/sconsole.h////*///
+/u-boot.lds////*///

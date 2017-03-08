@@ -1,0 +1,7 @@
+/Makefile////*///
+/config.mk////*///
+/conxs.c////*///
+/eeprom.c////*///
+/lowlevel_init.S////*///
+/pxavoltage.S////*///
+/u-boot.lds////*///

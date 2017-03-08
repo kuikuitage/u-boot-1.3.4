@@ -1,0 +1,8 @@
+/Makefile////*///
+/i82365.c////*///
+/marubun_pcmcia.c////*///
+/mpc8xx_pcmcia.c////*///
+/pxa_pcmcia.c////*///
+/rpx_pcmcia.c////*///
+/ti_pci1410a.c////*///
+/tqm8xx_pcmcia.c////*///

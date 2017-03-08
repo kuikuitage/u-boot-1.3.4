@@ -1,0 +1,5 @@
+/Makefile////*///
+/config.mk////*///
+/m5282evb.c////*///
+/mii.c////*///
+/u-boot.lds////*///

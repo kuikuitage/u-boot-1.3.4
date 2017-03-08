@@ -1,0 +1,5 @@
+/Makefile////*///
+/config.mk////*///
+/lowlevel_init.S////*///
+/omap5912osk.c////*///
+/u-boot.lds////*///

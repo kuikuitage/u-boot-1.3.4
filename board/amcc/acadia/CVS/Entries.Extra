@@ -1,0 +1,8 @@
+/Makefile////*///
+/acadia.c////*///
+/cmd_acadia.c////*///
+/config.mk////*///
+/memory.c////*///
+/pll.c////*///
+/u-boot-nand.lds////*///
+/u-boot.lds////*///

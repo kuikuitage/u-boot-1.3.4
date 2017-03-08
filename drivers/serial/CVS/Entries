@@ -1,0 +1,18 @@
+/Makefile/1.1/Wed Oct 22 14:24:58 2008//
+/atmel_usart.c/1.1/Wed Oct 22 14:24:58 2008//
+/atmel_usart.h/1.1/Wed Oct 22 14:24:58 2008//
+/mcfuart.c/1.1/Wed Oct 22 14:24:58 2008//
+/ns16550.c/1.1/Wed Oct 22 14:24:58 2008//
+/ns9750_serial.c/1.2/Wed Oct 29 23:53:10 2008//
+/s3c4510b_uart.c/1.2/Wed Oct 29 23:53:10 2008//
+/s3c4510b_uart.h/1.1/Wed Oct 22 14:24:58 2008//
+/serial.c/1.1/Wed Oct 22 14:24:58 2008//
+/serial_max3100.c/1.1/Wed Oct 22 14:24:58 2008//
+/serial_pl010.c/1.1/Wed Oct 22 14:24:58 2008//
+/serial_pl011.c/1.1/Wed Oct 22 14:24:58 2008//
+/serial_pl011.h/1.1/Wed Oct 22 14:24:58 2008//
+/serial_sh.c/1.1/Wed Oct 22 14:24:58 2008//
+/serial_xuartlite.c/1.1/Wed Oct 22 14:24:58 2008//
+/usbtty.c/1.1/Wed Oct 22 14:24:58 2008//
+/usbtty.h/1.1/Wed Oct 22 14:24:58 2008//
+D

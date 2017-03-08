@@ -1,0 +1,7 @@
+/Makefile////*///
+/config.mk////*///
+/exbitgen.c////*///
+/exbitgen.h////*///
+/flash.c////*///
+/init.S////*///
+/u-boot.lds////*///

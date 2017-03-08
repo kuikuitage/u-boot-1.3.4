@@ -1,0 +1,6 @@
+/Makefile////*///
+/config.mk////*///
+/law.c////*///
+/mpc8610hpcd.c////*///
+/mpc8610hpcd_diu.c////*///
+/u-boot.lds////*///

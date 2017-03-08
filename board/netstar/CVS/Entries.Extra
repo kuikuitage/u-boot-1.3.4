@@ -1,0 +1,13 @@
+/Makefile////*///
+/config.mk////*///
+/crcek.S////*///
+/crcek.h////*///
+/crcit.c////*///
+/eeprom.c////*///
+/eeprom.lds////*///
+/eeprom_start.S////*///
+/flash.c////*///
+/nand.c////*///
+/netstar.c////*///
+/setup.S////*///
+/u-boot.lds////*///

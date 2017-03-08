@@ -1,0 +1,7 @@
+/Makefile////*///
+/config.mk////*///
+/flash.c////*///
+/init.S////*///
+/u-boot.lds////*///
+/u-boot.lds.debug////*///
+/xpedite1k.c////*///

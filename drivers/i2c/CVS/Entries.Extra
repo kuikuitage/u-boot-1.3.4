@@ -1,0 +1,6 @@
+/Makefile////*///
+/fsl_i2c.c////*///
+/mxc_i2c.c////*///
+/omap1510_i2c.c////*///
+/omap24xx_i2c.c////*///
+/tsi108_i2c.c////*///

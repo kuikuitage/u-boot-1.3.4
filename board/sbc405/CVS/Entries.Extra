@@ -1,0 +1,5 @@
+/Makefile////*///
+/config.mk////*///
+/sbc405.c////*///
+/strataflash.c////*///
+/u-boot.lds////*///

@@ -1,0 +1,7 @@
+/Makefile////*///
+/config.mk////*///
+/eric.c////*///
+/eric.h////*///
+/flash.c////*///
+/init.S////*///
+/u-boot.lds////*///

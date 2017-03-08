@@ -1,0 +1,8 @@
+/Makefile////*///
+/cm5200.c////*///
+/cm5200.h////*///
+/cmd_cm5200.c////*///
+/config.mk////*///
+/fwupdate.c////*///
+/fwupdate.h////*///
+/u-boot.lds////*///

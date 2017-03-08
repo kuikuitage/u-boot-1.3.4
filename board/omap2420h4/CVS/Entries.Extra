@@ -1,0 +1,7 @@
+/Makefile////*///
+/config.mk////*///
+/lowlevel_init.S////*///
+/mem.c////*///
+/omap2420h4.c////*///
+/sys_info.c////*///
+/u-boot.lds////*///

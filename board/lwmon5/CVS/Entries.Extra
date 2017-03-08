@@ -1,0 +1,7 @@
+/Makefile////*///
+/config.mk////*///
+/init.S////*///
+/kbd.c////*///
+/lwmon5.c////*///
+/sdram.c////*///
+/u-boot.lds////*///

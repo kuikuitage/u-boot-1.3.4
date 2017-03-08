@@ -1,0 +1,14 @@
+/bootseq.txt////*///
+/ecctest.c////*///
+/flash.c////*///
+/i2c.c////*///
+/i2c.h////*///
+/intel_flash.c////*///
+/intel_flash.h////*///
+/memory.c////*///
+/misc.S////*///
+/ns16550.c////*///
+/ns16550.h////*///
+/ppc_error_no.h////*///
+/serial.c////*///
+/serial.h////*///

@@ -1,0 +1,7 @@
+/.gitignore////*///
+/Makefile////*///
+/bf533-stamp.c////*///
+/bf533-stamp.h////*///
+/config.mk////*///
+/spi_flash.c////*///
+/u-boot.lds.S////*///

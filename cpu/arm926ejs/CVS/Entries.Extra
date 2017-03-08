@@ -1,0 +1,10 @@
+/Makefile////*///
+/config.mk////*///
+/cpu.c////*///
+/cpuinfo.c////*///
+/interrupts.c////*///
+/start.S////*///
+D/at91sam9///////
+D/davinci///////
+D/omap///////
+D/versatile///////

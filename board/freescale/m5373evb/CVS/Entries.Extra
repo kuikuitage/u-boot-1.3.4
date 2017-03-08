@@ -1,0 +1,6 @@
+/Makefile////*///
+/config.mk////*///
+/m5373evb.c////*///
+/mii.c////*///
+/nand.c////*///
+/u-boot.lds////*///

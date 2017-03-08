@@ -1,0 +1,6 @@
+/Makefile////*///
+/config.mk////*///
+/lowlevel_init.S////*///
+/mx1ads.c////*///
+/syncflash.c////*///
+/u-boot.lds////*///

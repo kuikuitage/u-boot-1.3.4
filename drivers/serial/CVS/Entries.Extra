@@ -1,0 +1,17 @@
+/Makefile////*///
+/atmel_usart.c////*///
+/atmel_usart.h////*///
+/mcfuart.c////*///
+/ns16550.c////*///
+/ns9750_serial.c////*///
+/s3c4510b_uart.c////*///
+/s3c4510b_uart.h////*///
+/serial.c////*///
+/serial_max3100.c////*///
+/serial_pl010.c////*///
+/serial_pl011.c////*///
+/serial_pl011.h////*///
+/serial_sh.c////*///
+/serial_xuartlite.c////*///
+/usbtty.c////*///
+/usbtty.h////*///

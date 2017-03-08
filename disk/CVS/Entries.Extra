@@ -1,0 +1,10 @@
+/Makefile////*///
+/part.c////*///
+/part_amiga.c////*///
+/part_amiga.h////*///
+/part_dos.c////*///
+/part_dos.h////*///
+/part_iso.c////*///
+/part_iso.h////*///
+/part_mac.c////*///
+/part_mac.h////*///

@@ -1,0 +1,6 @@
+/Makefile////*///
+/config.mk////*///
+/init.S////*///
+/korat.c////*///
+/u-boot-F7FC.lds////*///
+/u-boot.lds////*///

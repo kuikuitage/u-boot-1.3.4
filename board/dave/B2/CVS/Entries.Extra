@@ -1,0 +1,6 @@
+/B2.c////*///
+/Makefile////*///
+/config.mk////*///
+/flash.c////*///
+/lowlevel_init.S////*///
+/u-boot.lds////*///

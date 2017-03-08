@@ -1,0 +1,7 @@
+/Makefile////*///
+/config.mk////*///
+/flash.c////*///
+/lowlevel_init.S////*///
+/split_by_variant.sh////*///
+/u-boot.lds////*///
+/versatile.c////*///

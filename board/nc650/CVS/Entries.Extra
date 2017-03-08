@@ -1,0 +1,7 @@
+/Makefile////*///
+/config.mk////*///
+/flash.c////*///
+/nand.c////*///
+/nc650.c////*///
+/u-boot.lds////*///
+/u-boot.lds.debug////*///

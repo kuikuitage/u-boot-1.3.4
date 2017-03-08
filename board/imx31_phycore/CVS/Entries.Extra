@@ -1,0 +1,5 @@
+/Makefile////*///
+/config.mk////*///
+/imx31_phycore.c////*///
+/lowlevel_init.S////*///
+/u-boot.lds////*///

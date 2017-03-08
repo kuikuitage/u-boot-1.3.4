@@ -1,0 +1,8 @@
+/Makefile////*///
+/cmd_sequoia.c////*///
+/config.mk////*///
+/init.S////*///
+/sdram.c////*///
+/sequoia.c////*///
+/u-boot-nand.lds////*///
+/u-boot.lds////*///

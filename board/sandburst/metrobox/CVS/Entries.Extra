@@ -1,0 +1,9 @@
+/Makefile////*///
+/config.mk////*///
+/hal_xc_auto.h////*///
+/init.S////*///
+/metrobox.c////*///
+/metrobox.h////*///
+/metrobox_version.h////*///
+/u-boot.lds////*///
+/u-boot.lds.debug////*///

@@ -1,0 +1,3 @@
+#! /bin/sh
+make xyd2440_config
+make

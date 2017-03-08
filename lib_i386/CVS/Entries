@@ -1,0 +1,15 @@
+/Makefile/1.1/Wed Oct 22 14:27:30 2008//
+/bios.S/1.1/Wed Oct 22 14:27:30 2008//
+/bios.h/1.1/Wed Oct 22 14:27:30 2008//
+/bios_pci.S/1.1/Wed Oct 22 14:27:30 2008//
+/bios_setup.c/1.1/Wed Oct 22 14:27:30 2008//
+/board.c/1.1/Wed Oct 22 14:27:30 2008//
+/bootm.c/1.1/Wed Oct 22 14:27:30 2008//
+/pci.c/1.1/Wed Oct 22 14:27:30 2008//
+/pci_type1.c/1.1/Wed Oct 22 14:27:30 2008//
+/realmode.c/1.1/Wed Oct 22 14:27:30 2008//
+/realmode_switch.S/1.1/Wed Oct 22 14:27:30 2008//
+/video.c/1.1/Wed Oct 22 14:27:30 2008//
+/video_bios.c/1.1/Wed Oct 22 14:27:30 2008//
+/zimage.c/1.1/Wed Oct 22 14:27:30 2008//
+D

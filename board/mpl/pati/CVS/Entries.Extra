@@ -1,0 +1,7 @@
+/Makefile////*///
+/cmd_pati.c////*///
+/config.mk////*///
+/pati.c////*///
+/pati.h////*///
+/pci_eeprom.h////*///
+/plx9056.h////*///

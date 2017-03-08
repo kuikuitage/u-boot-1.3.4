@@ -1,0 +1,9 @@
+/Makefile////*///
+/config.mk////*///
+/fads.c////*///
+/fads.h////*///
+/flash.c////*///
+/lamp.c////*///
+/pcmcia.c////*///
+/u-boot.lds////*///
+/u-boot.lds.debug////*///

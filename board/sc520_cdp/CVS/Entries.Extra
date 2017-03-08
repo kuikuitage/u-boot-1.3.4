@@ -1,0 +1,8 @@
+/Makefile////*///
+/config.mk////*///
+/flash.c////*///
+/flash_old.c////*///
+/sc520_cdp.c////*///
+/sc520_cdp_asm.S////*///
+/sc520_cdp_asm16.S////*///
+/u-boot.lds////*///

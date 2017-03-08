@@ -1,0 +1,9 @@
+/Makefile////*///
+/README////*///
+/config.mk////*///
+/idp_notes.txt////*///
+/lowlevel_init.S////*///
+/pxa_idp.c////*///
+/pxa_reg_calcs.out////*///
+/pxa_reg_calcs.py////*///
+/u-boot.lds////*///
