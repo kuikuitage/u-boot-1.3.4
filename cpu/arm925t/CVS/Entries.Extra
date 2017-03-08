@@ -1,6 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/cpu.c////*///
-/interrupts.c////*///
-/omap925.c////*///
-/start.S////*///

@@ -1,9 +1,0 @@
-/Makefile////*///
-/asmi.c////*///
-/config.mk////*///
-/cpu.c////*///
-/interrupts.c////*///
-/serial.c////*///
-/spi.c////*///
-/start.S////*///
-/traps.S////*///

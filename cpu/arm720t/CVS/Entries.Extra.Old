@@ -1,7 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/cpu.c////*///
-/interrupts.c////*///
-/serial.c////*///
-/serial_netarm.c////*///
-/start.S////*///

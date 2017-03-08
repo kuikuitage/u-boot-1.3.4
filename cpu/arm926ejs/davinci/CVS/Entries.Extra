@@ -1,9 +1,0 @@
-/Makefile////*///
-/dp83848.c////*///
-/ether.c////*///
-/i2c.c////*///
-/lowlevel_init.S////*///
-/lxt972.c////*///
-/nand.c////*///
-/reset.S////*///
-/timer.c////*///

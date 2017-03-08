@@ -1,6 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/cpu.c////*///
-/start.S////*///
-D/mx31///////
-D/omap24xx///////

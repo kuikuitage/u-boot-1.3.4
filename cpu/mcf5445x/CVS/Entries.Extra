@@ -1,9 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/cpu.c////*///
-/cpu_init.c////*///
-/dspi.c////*///
-/interrupts.c////*///
-/pci.c////*///
-/speed.c////*///
-/start.S////*///

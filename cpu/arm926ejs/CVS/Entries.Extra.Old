@@ -1,6 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/cpu.c////*///
-/cpuinfo.c////*///
-/interrupts.c////*///
-/start.S////*///
