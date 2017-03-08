@@ -1,8 +1,0 @@
-/Makefile////*///
-/board.c////*///
-/bootm.c////*///
-/cache.S////*///
-/divmod.c////*///
-/math.h////*///
-/mult.c////*///
-/time.c////*///
