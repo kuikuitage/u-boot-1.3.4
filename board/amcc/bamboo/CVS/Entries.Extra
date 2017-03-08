@@ -1,8 +1,0 @@
-/Makefile////*///
-/bamboo.c////*///
-/bamboo.h////*///
-/config.mk////*///
-/flash.c////*///
-/init.S////*///
-/u-boot-nand.lds////*///
-/u-boot.lds////*///

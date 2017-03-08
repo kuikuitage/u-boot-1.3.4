@@ -1,8 +1,0 @@
-/.gitignore////*///
-/Makefile////*///
-/bf533-ezkit.c////*///
-/config.mk////*///
-/flash-defines.h////*///
-/flash.c////*///
-/psd4256.h////*///
-/u-boot.lds.S////*///

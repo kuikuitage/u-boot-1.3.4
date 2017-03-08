@@ -1,7 +1,0 @@
-/Makefile////*///
-/cmd_ocrtc.c////*///
-/config.mk////*///
-/flash.c////*///
-/ocrtc.c////*///
-/ocrtc.h////*///
-/u-boot.lds////*///

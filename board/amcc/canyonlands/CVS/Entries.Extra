@@ -1,7 +1,0 @@
-/Makefile////*///
-/bootstrap.c////*///
-/canyonlands.c////*///
-/config.mk////*///
-/init.S////*///
-/u-boot-nand.lds////*///
-/u-boot.lds////*///

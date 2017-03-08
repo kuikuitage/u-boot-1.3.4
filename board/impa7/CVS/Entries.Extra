@@ -1,6 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/flash.c////*///
-/impa7.c////*///
-/lowlevel_init.S////*///
-/u-boot.lds////*///

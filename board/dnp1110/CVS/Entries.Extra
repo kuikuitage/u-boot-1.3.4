@@ -1,6 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/dnp1110.c////*///
-/flash.c////*///
-/lowlevel_init.S////*///
-/u-boot.lds////*///

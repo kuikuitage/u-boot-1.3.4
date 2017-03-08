@@ -1,8 +1,0 @@
-/Makefile////*///
-/cmd_yucca.c////*///
-/config.mk////*///
-/flash.c////*///
-/init.S////*///
-/u-boot.lds////*///
-/yucca.c////*///
-/yucca.h////*///

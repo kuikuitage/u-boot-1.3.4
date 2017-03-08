@@ -1,7 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/flash.c////*///
-/sc520_spunk.c////*///
-/sc520_spunk_asm.S////*///
-/sc520_spunk_asm16.S////*///
-/u-boot.lds////*///

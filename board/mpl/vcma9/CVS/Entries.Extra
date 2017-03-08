@@ -1,8 +1,0 @@
-/Makefile////*///
-/cmd_vcma9.c////*///
-/config.mk////*///
-/flash.c////*///
-/lowlevel_init.S////*///
-/u-boot.lds////*///
-/vcma9.c////*///
-/vcma9.h////*///

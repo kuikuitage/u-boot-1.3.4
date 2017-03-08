@@ -1,7 +1,0 @@
-/Makefile////*///
-/c2mon.c////*///
-/config.mk////*///
-/flash.c////*///
-/pcmcia.c////*///
-/u-boot.lds////*///
-/u-boot.lds.debug////*///

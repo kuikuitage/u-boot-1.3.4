@@ -1,9 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/ee_access.c////*///
-/ee_access.h////*///
-/ee_dev.h////*///
-/flash.c////*///
-/gth2.c////*///
-/lowlevel_init.S////*///
-/u-boot.lds////*///

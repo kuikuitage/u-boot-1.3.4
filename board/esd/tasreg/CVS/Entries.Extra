@@ -1,6 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/flash.c////*///
-/fpgadata.c////*///
-/tasreg.c////*///
-/u-boot.lds////*///

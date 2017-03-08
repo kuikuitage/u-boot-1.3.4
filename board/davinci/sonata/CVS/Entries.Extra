@@ -1,5 +1,0 @@
-/Makefile////*///
-/board_init.S////*///
-/config.mk////*///
-/dv_board.c////*///
-/u-boot.lds////*///

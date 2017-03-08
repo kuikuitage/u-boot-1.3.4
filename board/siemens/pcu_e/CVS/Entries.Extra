@@ -1,6 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/flash.c////*///
-/pcu_e.c////*///
-/u-boot.lds////*///
-/u-boot.lds.debug////*///

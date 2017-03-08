@@ -1,6 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/flash.c////*///
-/init.S////*///
-/pcs440ep.c////*///
-/u-boot.lds////*///

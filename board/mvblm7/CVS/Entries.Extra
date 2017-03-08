@@ -1,8 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/fpga.c////*///
-/fpga.h////*///
-/mvblm7.c////*///
-/mvblm7.h////*///
-/mvblm7_autoscript////*///
-/pci.c////*///

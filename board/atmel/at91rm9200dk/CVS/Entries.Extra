@@ -1,8 +1,0 @@
-/Makefile////*///
-/at91rm9200dk.c////*///
-/config.mk////*///
-/flash.c////*///
-/led.c////*///
-/mux.c////*///
-/partition.c////*///
-/u-boot.lds////*///

@@ -1,8 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/cpci405.c////*///
-/flash.c////*///
-/fpgadata_cpci405.c////*///
-/fpgadata_cpci4052.c////*///
-/fpgadata_cpci405ab.c////*///
-/u-boot.lds////*///

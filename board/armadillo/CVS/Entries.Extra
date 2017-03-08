@@ -1,6 +1,0 @@
-/Makefile////*///
-/armadillo.c////*///
-/config.mk////*///
-/flash.c////*///
-/lowlevel_init.S////*///
-/u-boot.lds////*///

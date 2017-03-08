@@ -1,9 +1,0 @@
-/Makefile////*///
-/codec.c////*///
-/config.mk////*///
-/dsp.c////*///
-/flash.c////*///
-/netta.c////*///
-/pcmcia.c////*///
-/u-boot.lds////*///
-/u-boot.lds.debug////*///

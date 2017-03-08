@@ -1,8 +1,0 @@
-/Makefile////*///
-/bcsr.c////*///
-/bcsr.h////*///
-/config.mk////*///
-/law.c////*///
-/mpc8568mds.c////*///
-/tlb.c////*///
-/u-boot.lds////*///

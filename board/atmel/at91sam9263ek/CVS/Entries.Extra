@@ -1,6 +1,0 @@
-/Makefile////*///
-/at91sam9263ek.c////*///
-/config.mk////*///
-/led.c////*///
-/nand.c////*///
-/partition.c////*///

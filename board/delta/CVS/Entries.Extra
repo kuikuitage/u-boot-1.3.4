@@ -1,6 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/delta.c////*///
-/lowlevel_init.S////*///
-/nand.c////*///
-/u-boot.lds////*///

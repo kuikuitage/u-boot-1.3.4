@@ -1,8 +1,0 @@
-/Makefile////*///
-/README.keybd////*///
-/config.mk////*///
-/flash.c////*///
-/lwmon.c////*///
-/pcmcia.c////*///
-/u-boot.lds////*///
-/u-boot.lds.debug////*///

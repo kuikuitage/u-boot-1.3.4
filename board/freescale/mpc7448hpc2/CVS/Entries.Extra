@@ -1,6 +1,0 @@
-/Makefile////*///
-/asm_init.S////*///
-/config.mk////*///
-/mpc7448hpc2.c////*///
-/tsi108_init.c////*///
-/u-boot.lds////*///

@@ -1,7 +1,0 @@
-/Makefile////*///
-/alpr.c////*///
-/config.mk////*///
-/fpga.c////*///
-/init.S////*///
-/nand.c////*///
-/u-boot.lds////*///

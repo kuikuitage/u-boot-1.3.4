@@ -1,7 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/epld.h////*///
-/flash.c////*///
-/init.S////*///
-/luan.c////*///
-/u-boot.lds////*///

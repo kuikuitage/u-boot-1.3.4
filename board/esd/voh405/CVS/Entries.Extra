@@ -1,8 +1,0 @@
-/Makefile////*///
-/config.mk////*///
-/flash.c////*///
-/fpgadata.c////*///
-/logo_320_240_4bpp.c////*///
-/logo_640_480_24bpp.c////*///
-/u-boot.lds////*///
-/voh405.c////*///
